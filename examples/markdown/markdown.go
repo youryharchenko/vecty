@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/gopherjs/vecty"
-	"github.com/gopherjs/vecty/elem"
-	"github.com/gopherjs/vecty/event"
 	"github.com/microcosm-cc/bluemonday"
 	"github.com/russross/blackfriday"
+	"github.com/youryharchenko/vecty"
+	"github.com/youryharchenko/vecty/elem"
+	"github.com/youryharchenko/vecty/event"
 )
 
 func main() {
